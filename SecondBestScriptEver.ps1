@@ -1,0 +1,1 @@
+Write-Output "Hello Cloud Lunch Marathon!"
